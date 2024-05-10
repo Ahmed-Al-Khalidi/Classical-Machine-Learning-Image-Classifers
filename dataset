@@ -1,1 +1,6 @@
+To use these python notebook you need to do the following
 
+1- Include :   "Image_Processing_Functions.py"       this file include the image processing functions and feature extractions functions
+
+2- create a folder and you need to rename it to "dataset" inside it creat two folders "0" reffer to class 0 and "1" reffer to class 1 inside 
+each one add all the images belong to the same class and 
